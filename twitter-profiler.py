@@ -12,8 +12,8 @@ import time #https://github.com/tweepy/tweepy
 
 # Twitter API credentials. Get yours from apps.twitter.com. Twitter acct rquired
 # If you need help, visit https://dev.twitter.com/oauth/overview
-consumer_key = "X8xCktBYeKBGrgemLLD8ikM0I"
-consumer_secret = "miy4Mw6Fa8dMtBLghvqpBWRcxk6k4BImtxXQV0oTVXyCDXIBrz"
+consumer_key = ""
+consumer_secret = ""
 #access_key = ""
 #access_secret = ""
 
